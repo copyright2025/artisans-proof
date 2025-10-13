@@ -1,0 +1,18 @@
+{
+  "master_proof": {
+    "protocol": "Sovereign Audio Protocol v1.0",
+    "artist": "REDACTED",
+    "trifecta_hashes": {
+      "biological": "9b8e74c202e5ac158ee3adc83d4e1a29db7fc8644c190e66f08835f47a0d2f04",
+      "creative": "6fb3c8a95f15eaa953381220ca589fefac3fa298ae81cb71f4363113a04d1ae6",
+      "technical": "AUDIO_WATERMARK_SYSTEM"
+    },
+    "profit_distribution": "3% Creator / 97% Community",
+    "license": "GPLv3 + Sovereign CLA",
+    "timestamp": 1760384081
+  },
+  "master_hash": "22a67672cb5347cf99061e11d661a6341f9c93e6a5ae3ecb3dae214e9f6c8f14",
+  "transaction_hash": "aef3f9510f69c7b313f52286a6e81b4412bafefd0150657c64f6a3c8a45e2d64",
+  "block_number": 77639705,
+  "status": "SOVEREIGN_TRIFECTA_COMPLETE"
+}
