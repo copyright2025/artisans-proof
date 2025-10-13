@@ -1,0 +1,33 @@
+{
+  "biological_hash": "9b8e74c202e5ac158ee3adc83d4e1a29db7fc8644c190e66f08835f47a0d2f04",
+  "feature_digest": "9b8e74c202e5ac15",
+  "biometric_data": {
+    "vocal_tract": {
+      "vocal_tract_length_cm": 17.5,
+      "formant_1_hz": 500,
+      "formant_2_hz": 1500,
+      "formant_dispersion": 1000
+    },
+    "cord_elasticity": {
+      "pitch_range_hz": 137.3075910123714,
+      "pitch_range_octaves": 1.4416666666666667,
+      "mean_pitch_hz": 116.03118620932736
+    },
+    "neuromuscular_timing": {
+      "articulation_rate_hz": 1.0,
+      "timing_consistency": 1.0592819073505986,
+      "onset_count": 17
+    },
+    "breath_control": {
+      "breath_group_count": 1868,
+      "energy_consistency": 1.8298602104187012,
+      "phonation_stability": 0.9956485629081726
+    },
+    "articulation_consistency": {
+      "motor_pattern_consistency": 0.6212488807417322,
+      "analyzed_segments": 5
+    }
+  },
+  "confidence_score": 0.8000000000000002,
+  "timestamp": "2025-10-13T18:52:50"
+}

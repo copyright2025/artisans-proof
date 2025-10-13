@@ -1,0 +1,10 @@
+{
+  "deployer": "0xECBA0D096bbd26a48e98bdfce2e5F49767Ab23EA",
+  "transaction_hash": "315153b5aeb59737093f59e639289146415d1361d543a68512f6e250c483edd2",
+  "block_number": 77637744,
+  "timestamp": 1760380163,
+  "creator_share": "3%",
+  "community_share": "97%",
+  "protocol": "Sovereign Audio Protocol v1.0",
+  "status": "DEPLOYED"
+}

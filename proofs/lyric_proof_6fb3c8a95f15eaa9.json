@@ -1,0 +1,14 @@
+{
+  "proof_data": {
+    "song_title": "Test Song",
+    "artist": "REDACTED",
+    "content_hash": "6fb3c8a95f15eaa953381220ca589fefac3fa298ae81cb71f4363113a04d1ae6",
+    "structure_hash": "8409d750b7e644a726b5f9c7020b590addd968fd40229a10b83b70ebd44685d1",
+    "line_count": 4,
+    "word_count": 4,
+    "character_count": 23,
+    "timestamp": "2025-10-13T19:27:12.114559",
+    "protocol": "SovereignAudio v1.0"
+  },
+  "status": "READY_FOR_BLOCKCHAIN"
+}
